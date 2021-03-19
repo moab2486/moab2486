@@ -2,7 +2,7 @@
 ### 🔭 I’m currently working on algorithm, javascript, react, node and vue...
 ### 🌱 I’m currently improving my problem solving skills and soft skill
 ### 👯 I’m looking to collaborate on javascript project
-### 🤔 I’m looking for oppurtunity
+### 🤔 I’m looking for partnership
 ### 💬 Ask me about codes
 ### 📫 How to reach me: via my email joloh57@gmail.com
 ### 😄 Pronouns: He/Him...
